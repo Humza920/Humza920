@@ -1,4 +1,4 @@
-![logo](https://github.com/Humza920/Humza920/blob/main/1.png)
+![logo](https://github.com/Humza920/Humza920/blob/main/git.gif)
 <h1 align="center">Hi 👋, I'm Humza Rehman</h1>
 <h3 align="center">A PASSIONATE FRONT-END DEVELOPER</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
