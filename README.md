@@ -1,6 +1,7 @@
 ![logo](https://github.com/Humza920/Humza920/blob/main/git.gif)
 <h1 align="center">Hi 👋, I'm Humza Rehman</h1>
 <h3 align="center">A PASSIONATE FRONT-END DEVELOPER</h3>
+<p>Passionate Frontend Developer with a flair for crafting immersive digital experiences that captivate and engage users. Armed with a blend of creativity and technical expertise, I thrive on transforming design concepts into pixel-perfect, responsive web applications. With a keen eye for detail and a commitment to clean, efficient code, I continuously seek innovative solutions to push the boundaries of user interface design. Let's collaborate and bring visions to life, one line of code at a time.</p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humza920&label=Profile%20views&color=0e75b6&style=flat" alt="humza920" /> </p>
