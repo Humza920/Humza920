@@ -3,9 +3,6 @@
 <h3 align="center">A PASSIONATE FRONT-END DEVELOPER</h3>
 <p>Passionate Frontend Developer with a flair for crafting immersive digital experiences that captivate and engage users. Armed with a blend of creativity and technical expertise, I thrive on transforming design concepts into pixel-perfect, responsive web applications. With a keen eye for detail and a commitment to clean, efficient code, I continuously seek innovative solutions to push the boundaries of user interface design. Let's collaborate and bring visions to life, one line of code at a time.</p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humza920&label=Profile%20views&color=0e75b6&style=flat" alt="humza920" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -21,3 +18,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=humza920&show_icons=true&locale=en&layout=compact" alt="humza920" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humza920&" alt="humza920" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=humza920&label=Profile%20views&color=0e75b6&style=flat" alt="humza920" /> </p>
